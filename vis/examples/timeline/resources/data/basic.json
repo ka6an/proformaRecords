@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "content": "леша молодец",
+    "start": "2014-04-20",
+    "type": "point"
+  },
+  {
+    "id": 2,
+    "content": "леша умничка",
+    "start": "2014-04-14",
+    "type": "point"
+  },
+  {
+    "id": 3,
+    "content": "леша-леша",
+    "start": "2014-04-18",
+    "type": "point"
+  },
+  {
+    "id": 4,
+    "content": "ты супер",
+    "start": "2014-04-16",
+    "type": "point"
+  },
+  {
+    "id": 5,
+    "content": ":)",
+    "start": "2014-04-25",
+    "type": "point"
+  },
+  {
+    "id": 6,
+    "content": "ахаха, прекрати))",
+    "start": "2014-04-20",
+    "type": "point"
+  }
+]

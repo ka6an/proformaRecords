@@ -1,0 +1,75 @@
+[
+    {
+    		"id": 1,
+        "start": "2014-04-20T04:00:00.000Z",
+        "header": "леша молодец",
+        "content": "Звукозаписывающий лэйбл «Proforma Records» основан в 1992 году в Нью-Йорке поэтом, художником, архитектором, продюсером, издателем  Дмитрием Стрижовым.",
+        "media": "http://advance-club.ru/proformaRecords/img/arhive/test_photo.jpg",
+        "title": "леша молодец",
+        "type": "point"
+    },
+    {
+    		"id": 2,
+        "start": "2014-04-14T04:00:00.000Z",
+        "template": "video",
+        "header": "видео",
+        "content": "Концерт 08.01.15 в клубе «BackStage»\nПродюсер: Дмитрий Стрижов PROFORMA RECORDS\nГруппа «СНИМУ В КИНО» – проект Дмитрия Стрижова (текст песен, концепция, аранжировки)\nСанкт-Петербург, 2015",
+        "media": "https://www.youtube.com/embed/yOCChzXlIQM?showinfo=0",
+        "title": "СНИМУ В КИНО «Я никому не нужен» – концертная версия",
+        "type": "point"
+    },
+    {
+        "id": 3,
+        "start": "2014-04-18T04:00:00.000Z",
+        "header": "леша-леша",
+        "content": "Звукозаписывающий лэйбл \"Proforma Records\" основан в 1992 году в Нью-Йорке поэтом, художником, архитектором, продюсером, издателем - Дмитрием Стрижовым.",
+        "media": "http://advance-club.ru/proformaRecords/img/arhive/test_photo.jpg",
+        "title": "леша-леша",
+        "type": "point"
+    },
+    {
+    		"id": 4,
+        "start": "2014-04-16T04:00:00.000Z",
+        "header": "ты супер",
+        "media": "http://advance-club.ru/proformaRecords/img/arhive/test_photo.jpg",
+        "title": "ты супер",
+        "type": "point"
+    },
+    {
+    		"id": 5,
+        "start": "2014-04-25T04:00:00.000Z",
+        "header": ":)",
+        "content": "Звукозаписывающий лэйбл \"Proforma Records\" основан в 1992 году в Нью-Йорке поэтом, художником, архитектором, продюсером, издателем - Дмитрием Стрижовым.",
+        "media": "http://advance-club.ru/proformaRecords/img/arhive/test_photo.jpg",
+        "title": ":)",
+        "type": "point"
+    },
+    {
+    		"id": 6,
+        "start": "2014-04-20T04:00:00.000Z",
+        "header": "ахаха, прекрати))",
+        "media": "http://advance-club.ru/proformaRecords/img/arhive/test_photo.jpg",
+        "title": "ахаха, прекрати))",
+        "type": "point"
+    },
+    {
+    		"id": 7,
+        "start": "2014-04-20T04:00:00.000Z",
+        "header": "охохо, хватит))",
+        "media": "http://advance-club.ru/proformaRecords/img/arhive/test_photo.jpg",
+        "title": "охохо, хватит))",
+        "type": "point"
+    },
+    {
+    		"id": 8,
+        "start": "5.5.2014",
+        "template": "album",
+        "header": "новый сингл",
+        "content": "Представляем вашему вниманию новый трек — «Правда» от петербургского проекта продюсера Дмитрия Стрижова – группы snimuvkino«Сниму в кино». Сингл войдет в 3-й по счету студийный альбом группы, запись которого идет прямо сейчас!",
+        "media": "http://advance-club.ru/proformaRecords/img/2.jpg",
+        "title": "новый сингл",
+        "type": "point",
+        "link": "http://advance-club.ru/chumy_b_kuho/",
+        "linktext": "подробнее"
+    }
+]
